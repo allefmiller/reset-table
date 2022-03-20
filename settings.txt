@@ -1,0 +1,6 @@
+server=DESKTOP-FI5KOOB\SQLSERVER14
+database=for_teste
+username=sa
+password=88654489adma
+table_one=[USURUBI.3G458]
+table_two=[USURUBI.7H653]
